@@ -49,7 +49,6 @@ This project compares the performance of **Artificial Neural Networks (ANN)** an
 - Max Pooling
 - Dense Layer
 - Dropout
-- Softmax Output Layer
 
 ## Performance Comparison
 
@@ -71,13 +70,6 @@ Learning curves were plotted to compare the convergence behavior of the improved
 - EarlyStopping helped prevent unnecessary training and reduced the risk of overfitting.
 - CNN learned spatial features effectively, resulting in better generalization.
 
-## Repository Structure
-
-```
-├── Image_Classification.ipynb
-├── README.md
-└── images/ (optional)
-```
 
 ## Conclusion
 
