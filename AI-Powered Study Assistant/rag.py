@@ -1,7 +1,7 @@
 import os
 import shutil
 import fitz
-
+import config
 from llama_index.core import (
     Document,
     VectorStoreIndex,
