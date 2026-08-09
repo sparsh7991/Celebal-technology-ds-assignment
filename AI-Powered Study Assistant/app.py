@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 from rag import RAG
-
+import config
 st.set_page_config(
     page_title="AI-Powered Study Assistant",
     page_icon="📚",
