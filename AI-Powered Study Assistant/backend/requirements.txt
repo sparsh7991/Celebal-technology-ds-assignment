@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+pymupdf
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+sentence-transformers
+torch

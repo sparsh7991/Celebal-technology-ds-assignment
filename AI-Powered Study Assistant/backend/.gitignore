@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+study_assistant.db
+data/*
+storage/*
